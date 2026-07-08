@@ -1,0 +1,59 @@
+langchain
+langchain-core
+langchain-community
+
+#Langgraph
+langgraph
+
+# LLM Providers
+
+langchain-openai
+langchain-mistralai
+langchain-google-genai
+langchain-groq
+langchain-huggingface
+openai
+mistralai
+
+# Vector Database
+
+chromadb
+faiss-cpu
+
+# Embedding Models
+
+sentence-transformers
+
+# Document Loaders dependencies
+
+pypdf
+unstructured
+beautifulsoup4
+lxml
+
+# Text Processing
+
+tiktoken
+
+# Environment Variables
+
+python-dotenv
+
+# Data Handling
+
+pandas
+numpy
+
+# API / App Layer (optional but common in RAG apps)
+
+fastapi
+uvicorn
+
+# UI (optional)
+
+streamlit
+
+# Utilities
+
+tqdm
+requests
